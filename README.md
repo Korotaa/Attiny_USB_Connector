@@ -3,7 +3,8 @@
 Designed with Kicad :
 
 - 2 layers
-- 
+- Attiny 8 bits MCU
+- USB connector
 
 ![](./images/apcb1.png)
 
